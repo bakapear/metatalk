@@ -1,0 +1,2376 @@
+[
+  {
+    "name": "dingoff",
+    "path": [
+      "vo/aperture_ai/ding_off.wav"
+    ]
+  },
+  {
+    "name": "dingon",
+    "path": [
+      "vo/aperture_ai/ding_on.wav"
+    ]
+  },
+  {
+    "name": "filedeleted",
+    "path": [
+      "vo/aperture_ai/file_deleted.wav"
+    ]
+  },
+  {
+    "name": "genericcratelost",
+    "path": [
+      "vo/aperture_ai/generic_crate_lost-2.wav"
+    ]
+  },
+  {
+    "name": "genericcratevaporizedinemancipationgrid",
+    "path": [
+      "vo/aperture_ai/generic_crate_vaporized_in_emancipation_grid-1.wav"
+    ]
+  },
+  {
+    "name": "genericsecuritycameradestroyed",
+    "path": [
+      "vo/aperture_ai/generic_security_camera_destroyed-5.wav"
+    ]
+  },
+  {
+    "name": "a complimentary escape hatch will open in three two one",
+    "path": [
+      "vo/aperture_ai/08_part1_trapped-2.wav"
+    ]
+  },
+  {
+    "name": "a party associate will arrive shortly to collect you for your party",
+    "path": [
+      "vo/aperture_ai/15_part1_partyspeech-5.wav"
+    ]
+  },
+  {
+    "name": "a replacement aperture science weighted storage cube will be delivered shortly",
+    "path": [
+      "vo/aperture_ai/generic_crate_vaporized_in_emancipation_grid-2.wav"
+    ]
+  },
+  {
+    "name": "activated",
+    "path": [
+      "npc/turret_floor/turret_active_8.wav",
+      "npc/turret_floor/turret_active_7.wav",
+      "npc/turret_floor/turret_active_6.wav",
+      "npc/turret_floor/turret_active_5.wav",
+      "npc/turret_floor/turret_active_4.wav",
+      "npc/turret_floor/turret_active_2.wav",
+      "npc/turret_floor/turret_active_1.wav"
+    ]
+  },
+  {
+    "name": "adjustable aluminum head positioner",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-34.wav"
+    ]
+  },
+  {
+    "name": "air rushing",
+    "path": [
+      "player/fling_whoosh.wav",
+      "ambient/wind/tube_suck.wav"
+    ]
+  },
+  {
+    "name": "air whipping past",
+    "path": [
+      "vo/escape/portal_escape_seg03-2.wav"
+    ]
+  },
+  {
+    "name": "all aperture technologies remain safely operational up to 4000 degrees kelvin",
+    "path": [
+      "vo/aperture_ai/15_part1_into_the_fire-2.wav"
+    ]
+  },
+  {
+    "name": "all i know is im the only thing standing between us and them well i was",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-04.wav"
+    ]
+  },
+  {
+    "name": "all right keep doing whatever it is you think youre doing",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-09.wav"
+    ]
+  },
+  {
+    "name": "all subjects intending to handle highenergy gamma leaking portal technology must be informed that they may be informed of applicable regulatory compliance issues",
+    "path": [
+      "vo/aperture_ai/09_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "all your other friends couldnt come either because you dont have any other friends because of how unlikable you are",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-24.wav"
+    ]
+  },
+  {
+    "name": "alpha resins",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-18.wav"
+    ]
+  },
+  {
+    "name": "although the euthanizing process is remarkably painful eight out of ten aperture science engineers believe that the companion cube is most likely incapable of feeling much pain",
+    "path": [
+      "vo/aperture_ai/13_part1_endnag-4.wav"
+    ]
+  },
+  {
+    "name": "an entry called how to kill someone with your bare hands",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-25.wav"
+    ]
+  },
+  {
+    "name": "an escape hatch will open in three two one",
+    "path": [
+      "vo/aperture_ai/07_part1_trapped-2.wav"
+    ]
+  },
+  {
+    "name": "an intubation associate will be dispatched to revive you with peptic salve and adrenaline",
+    "path": [
+      "vo/aperture_ai/08_part1_entry-3.wav"
+    ]
+  },
+  {
+    "name": "and it contains proven preservatives deep penetration agents and gas and odor control chemicals",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-40.wav"
+    ]
+  },
+  {
+    "name": "and volatile malted milk impoundments",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-21.wav"
+    ]
+  },
+  {
+    "name": "are you coming back",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-10.wav"
+    ]
+  },
+  {
+    "name": "are you even listening to me",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-15.wav"
+    ]
+  },
+  {
+    "name": "are you still listening",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_07.wav"
+    ]
+  },
+  {
+    "name": "are you still standing there",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_09.wav",
+      "vo/aperture_ai/post_escape_bridge_08.wav"
+    ]
+  },
+  {
+    "name": "are you trying to escape chuckle things have changed since the last time you left the building whats going on out there will make you wish you were back in here",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-02.wav"
+    ]
+  },
+  {
+    "name": "as part of a previously mentioned required test protocol we can no longer lie to you",
+    "path": [
+      "vo/aperture_ai/08_part1_success-1.wav"
+    ]
+  },
+  {
+    "name": "as part of a required test protocol our previous statement suggesting that we would not monitor this chamber was an outright fabrication",
+    "path": [
+      "vo/aperture_ai/02_part2_success-1.wav"
+    ]
+  },
+  {
+    "name": "as part of a required test protocol we will not monitor the next test chamber you will be entirely on your own good luck",
+    "path": [
+      "vo/aperture_ai/02_part1_success-2.wav"
+    ]
+  },
+  {
+    "name": "as part of an optional test protocol we are pleased to present an amusing fact",
+    "path": [
+      "vo/aperture_ai/07_part1_get_device_component-2.wav"
+    ]
+  },
+  {
+    "name": "assume the party escort submission position or you will miss the party",
+    "path": [
+      "vo/aperture_ai/15_part1_partyspeech-7.wav"
+    ]
+  },
+  {
+    "name": "at the enrichment center we promise never to value your safety above your unique ideas and creativity however do not destroy vital testing apparatus",
+    "path": [
+      "vo/aperture_ai/generic_security_camera_destroyed-1.wav"
+    ]
+  },
+  {
+    "name": "audible warning devices are required on all mobile equipment however alarms and flashing hazard lights have been found to agitate the high energy pellet and have therefore been disabled for your safety",
+    "path": [
+      "vo/aperture_ai/03_part2_entry-1.wav"
+    ]
+  },
+  {
+    "name": "because despite your violent behavior the only thing youve managed to break so far is my heart",
+    "path": [
+      "vo/aperture_ai/escape_02_entry-01.wav"
+    ]
+  },
+  {
+    "name": "because i dont think youre going where you think youre going",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag09-1.wav"
+    ]
+  },
+  {
+    "name": "before we start however keep in mind that although fun and learning are the primary goals of all enrichment center activities serious injuries may occur",
+    "path": [
+      "vo/aperture_ai/00_part1_entry-4.wav"
+    ]
+  },
+  {
+    "name": "birds sing",
+    "path": [
+      "vo/escape/portal_escape_seg02-3.wav"
+    ]
+  },
+  {
+    "name": "blue portal open",
+    "path": [
+      "weapons/portalgun/portal_open1.wav"
+    ]
+  },
+  {
+    "name": "bzzt garble fling garble fling garble bzzt",
+    "path": [
+      "vo/aperture_ai/07_part2_entry-1.wav"
+    ]
+  },
+  {
+    "name": "cake and grief counseling will be available at the conclusion of the test",
+    "path": [
+      "vo/aperture_ai/10_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "calming wind",
+    "path": [
+      "vo/escape/portal_escape_seg01-6.wav"
+    ]
+  },
+  {
+    "name": "can you hear me",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_06.wav",
+      "vo/aperture_ai/post_escape_bridge_02.wav"
+    ]
+  },
+  {
+    "name": "candy coated peanut butter pieces shaped like fish",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-16.wav"
+    ]
+  },
+  {
+    "name": "certain objects may be vital to your success do not destroy testing apparatus",
+    "path": [
+      "vo/aperture_ai/generic_security_camera_destroyed-4.wav"
+    ]
+  },
+  {
+    "name": "clock tick",
+    "path": [
+      "ambient/machines/tick1.wav"
+    ]
+  },
+  {
+    "name": "come on leave it alone",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-11.wav"
+    ]
+  },
+  {
+    "name": "coming through",
+    "path": [
+      "npc/turret_floor/turret_collide_5.wav",
+      "npc/turret_floor/turret_collide_4.wav",
+      "npc/turret_floor/turret_collide_3.wav",
+      "npc/turret_floor/turret_collide_2.wav",
+      "npc/turret_floor/turret_collide_1.wav"
+    ]
+  },
+  {
+    "name": "congratulations the test is now over",
+    "path": [
+      "vo/aperture_ai/15_part1_into_the_fire-1.wav"
+    ]
+  },
+  {
+    "name": "cordless electric needle injector",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-36.wav"
+    ]
+  },
+  {
+    "name": "cranial caps",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-39.wav"
+    ]
+  },
+  {
+    "name": "crashing debris",
+    "path": [
+      "vo/escape/portal_escape_seg02-2.wav"
+    ]
+  },
+  {
+    "name": "crickets chirp",
+    "path": [
+      "vo/escape/portal_escape_seg02-1.wav"
+    ]
+  },
+  {
+    "name": "critical error",
+    "path": [
+      "npc/turret_floor/turret_disabled_8.wav",
+      "npc/turret_floor/turret_disabled_7.wav",
+      "npc/turret_floor/turret_disabled_6.wav",
+      "npc/turret_floor/turret_disabled_5.wav",
+      "npc/turret_floor/turret_disabled_4.wav",
+      "npc/turret_floor/turret_disabled_2.wav"
+    ]
+  },
+  {
+    "name": "death scream",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-18.wav"
+    ]
+  },
+  {
+    "name": "deploying",
+    "path": [
+      "npc/turret_floor/turret_deploy_6.wav",
+      "npc/turret_floor/turret_deploy_5.wav",
+      "npc/turret_floor/turret_deploy_4.wav",
+      "npc/turret_floor/turret_deploy_2.wav",
+      "npc/turret_floor/turret_deploy_1.wav"
+    ]
+  },
+  {
+    "name": "despite the best efforts of the enrichment center staff to ensure the safe performance of all authorized activities you have managed to ensnare yourself permanently inside this room",
+    "path": [
+      "vo/aperture_ai/08_part1_trapped-1.wav"
+    ]
+  },
+  {
+    "name": "destroy your companion cube or the testing cannot continue",
+    "path": [
+      "vo/aperture_ai/13_part1_endnag-6.wav"
+    ]
+  },
+  {
+    "name": "did you hear me i said you dont care are you listening",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-06.wav"
+    ]
+  },
+  {
+    "name": "did you just toss the aperture science thing we dont know what it does into the aperture science emergency intelligence incinerator",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-02.wav"
+    ]
+  },
+  {
+    "name": "did you know you can donate one or all of your vital organs to the aperture science self esteem fund for girls its true",
+    "path": [
+      "vo/aperture_ai/10_part1_success-1.wav"
+    ]
+  },
+  {
+    "name": "didnt we have some fun though",
+    "path": [
+      "vo/aperture_ai/escape_nags_07.wav"
+    ]
+  },
+  {
+    "name": "ding off",
+    "path": [
+      "vo/aperture_ai/ding_off.wav"
+    ]
+  },
+  {
+    "name": "ding on",
+    "path": [
+      "vo/aperture_ai/ding_on.wav"
+    ]
+  },
+  {
+    "name": "do not look directly at the operational end of the device",
+    "path": [
+      "vo/aperture_ai/01_part1_get_portal_gun-6.wav"
+    ]
+  },
+  {
+    "name": "do not submerge the device in liquid even partially",
+    "path": [
+      "vo/aperture_ai/01_part1_get_portal_gun-7.wav"
+    ]
+  },
+  {
+    "name": "do not touch the operational end of the device",
+    "path": [
+      "vo/aperture_ai/01_part1_get_portal_gun-5.wav"
+    ]
+  },
+  {
+    "name": "do you see that thing that fell out of me what is that its not the surprise ive never seen it before",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredrop1-02.wav"
+    ]
+  },
+  {
+    "name": "do you smell something burning",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-15.wav"
+    ]
+  },
+  {
+    "name": "do you think i am trying to trick you with reverse psychology i mean seriously now",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-03.wav"
+    ]
+  },
+  {
+    "name": "dont believe me here ill put you on hellooo thats you thats how dumb you sound",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy3-05.wav"
+    ]
+  },
+  {
+    "name": "dont forget garnishes such as",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-08.wav"
+    ]
+  },
+  {
+    "name": "due to mandatory scheduled maintenance the appropriate chamber for this testing sequence is currently unavailable",
+    "path": [
+      "vo/aperture_ai/11_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "elevator chime",
+    "path": [
+      "ambient/alarms/portal_elevator_chime.wav"
+    ]
+  },
+  {
+    "name": "energy cascades",
+    "path": [
+      "vo/escape/portal_escape_seg01-5.wav"
+    ]
+  },
+  {
+    "name": "enrichment center regulations require both hands to be empty before any cake can be served garbled",
+    "path": [
+      "vo/aperture_ai/15_part1_entry-3.wav"
+    ]
+  },
+  {
+    "name": "enter portal",
+    "path": [
+      "player/portal_enter2.wav",
+      "player/portal_enter1.wav"
+    ]
+  },
+  {
+    "name": "ewww whats wrong with your legs",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-08.wav"
+    ]
+  },
+  {
+    "name": "excellent please proceed into the chamberlock after completing each test",
+    "path": [
+      "vo/aperture_ai/00_part1_success-1.wav"
+    ]
+  },
+  {
+    "name": "exit portal",
+    "path": [
+      "player/portal_exit2.wav",
+      "player/portal_exit1.wav"
+    ]
+  },
+  {
+    "name": "fan spinning",
+    "path": [
+      "ambient/machines/fan4.wav"
+    ]
+  },
+  {
+    "name": "fantastic you remained resolute and resourceful in an atmosphere of extreme pessimism",
+    "path": [
+      "vo/aperture_ai/05_part1_success-1.wav"
+    ]
+  },
+  {
+    "name": "fiberglass surface resins",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-20.wav"
+    ]
+  },
+  {
+    "name": "file deleted",
+    "path": [
+      "vo/aperture_ai/file_deleted.wav"
+    ]
+  },
+  {
+    "name": "first however note the incandescent particle field across the exit",
+    "path": [
+      "vo/aperture_ai/00_part1_success-2.wav"
+    ]
+  },
+  {
+    "name": "fish shaped candies",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-10.wav"
+    ]
+  },
+  {
+    "name": "fish shaped crackers",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-09.wav"
+    ]
+  },
+  {
+    "name": "fish shaped dirt",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-12.wav"
+    ]
+  },
+  {
+    "name": "fish shaped ethyl benzene",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-13.wav"
+    ]
+  },
+  {
+    "name": "fish shaped solid waste",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-11.wav"
+    ]
+  },
+  {
+    "name": "fish shaped volatile organic compounds and sediment shaped sediment",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-15.wav"
+    ]
+  },
+  {
+    "name": "fluorescent light hum",
+    "path": [
+      "ambient/machines/fluorescent_hum_2.wav",
+      "ambient/machines/fluorescent_hum_1.wav"
+    ]
+  },
+  {
+    "name": "for instance the floor here will kill you try to avoid it",
+    "path": [
+      "vo/aperture_ai/07_part1_entry-3.wav"
+    ]
+  },
+  {
+    "name": "for more information please attend an enrichment center electrical safety seminar",
+    "path": [
+      "vo/aperture_ai/14_part1_end-2.wav"
+    ]
+  },
+  {
+    "name": "for your own safety and the safety of others please refrain from touching bzzzzzt",
+    "path": [
+      "vo/aperture_ai/00_part1_entry-5.wav"
+    ]
+  },
+  {
+    "name": "for your own safety do not destroy vital testing apparatus",
+    "path": [
+      "vo/aperture_ai/generic_security_camera_destroyed-3.wav"
+    ]
+  },
+  {
+    "name": "four large eggs one cup semisweet chocolate chips",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-04.wav"
+    ]
+  },
+  {
+    "name": "frankly this chamber was a mistake if we were you we would quit now",
+    "path": [
+      "vo/aperture_ai/05_part1_nag3-1.wav"
+    ]
+  },
+  {
+    "name": "gnash",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-02.wav"
+    ]
+  },
+  {
+    "name": "go ahead and break it hero i dont care",
+    "path": [
+      "vo/aperture_ai/escape_01_part1_nag12-1.wav"
+    ]
+  },
+  {
+    "name": "good job as part of a required test protocol we will stop enhancing the truth in three two one",
+    "path": [
+      "vo/aperture_ai/02_part2_success-2.wav"
+    ]
+  },
+  {
+    "name": "good job on that by the way sarcasm sphere selftest complete",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-06.wav"
+    ]
+  },
+  {
+    "name": "good news i figured out what that thing that you just incinerated did",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-04.wav"
+    ]
+  },
+  {
+    "name": "good now use the aperture science unstationary scaffold to reach the chamberlock",
+    "path": [
+      "vo/aperture_ai/03_part2_platform_activated-1.wav"
+    ]
+  },
+  {
+    "name": "good people dont end up here",
+    "path": [
+      "vo/aperture_ai/escape_01_part1_nag02-1.wav"
+    ]
+  },
+  {
+    "name": "goodbye",
+    "path": [
+      "vo/aperture_ai/15_part1_into_the_fire-5.wav"
+    ]
+  },
+  {
+    "name": "groan",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-near_fire02.wav"
+    ]
+  },
+  {
+    "name": "growl",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-19.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-11.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-09.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-08.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-07.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-04.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-03.wav"
+    ]
+  },
+  {
+    "name": "grunt",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-13.wav"
+    ]
+  },
+  {
+    "name": "ha im making more thats going to take a few minutes though meanwhile oh look its your old pal the rocket turret",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-ancillary2.wav"
+    ]
+  },
+  {
+    "name": "have i lied to you i mean in this room trust me leave that thing alone",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-08.wav"
+    ]
+  },
+  {
+    "name": "hello",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_01.wav",
+      "vo/aperture_ai/escape_00_part1_nag01-1.wav"
+    ]
+  },
+  {
+    "name": "hello again to reiterate our previous warning this test garbled momentum garbled",
+    "path": [
+      "vo/aperture_ai/06_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "hello and again welcome to the aperture science computeraided enrichment center",
+    "path": [
+      "vo/aperture_ai/00_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "heres a hint youre gonna want to pack as much living as you can into the next couple of minutes",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy2-05.wav"
+    ]
+  },
+  {
+    "name": "hey its me",
+    "path": [
+      "npc/turret_floor/turret_shotat_3.wav",
+      "npc/turret_floor/turret_shotat_2.wav",
+      "npc/turret_floor/turret_shotat_1.wav"
+    ]
+  },
+  {
+    "name": "hey look at that thing no that other thing",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-07.wav"
+    ]
+  },
+  {
+    "name": "high pitched squeal",
+    "path": [
+      "vo/escape/portal_escape_seg01-4.wav"
+    ]
+  },
+  {
+    "name": "hiss",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-18.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-17.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-16.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-12.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-10.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-05.wav"
+    ]
+  },
+  {
+    "name": "however it cannot accompany you for the rest of the test and unfortunately must be euthanized",
+    "path": [
+      "vo/aperture_ai/13_part1_end-2.wav"
+    ]
+  },
+  {
+    "name": "huh that core may have had some ancillary responsibilities i cant shut off the turret defenses",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-07.wav"
+    ]
+  },
+  {
+    "name": "huh there isnt enough neurotoxin to kill you so i guess you win",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-ancillary1.wav"
+    ]
+  },
+  {
+    "name": "i am being serious now that crazy thing is not part of any test protocol",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-09.wav"
+    ]
+  },
+  {
+    "name": "i could take a bath in the stuff put it on cereal rub it right into my eyes honestly its not deadly at all to me",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-12.wav"
+    ]
+  },
+  {
+    "name": "i dont want to tell you youre business but if it were me id leave that thing alone",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-02.wav"
+    ]
+  },
+  {
+    "name": "i feel sorry for you really because youre not even in the right place",
+    "path": [
+      "vo/aperture_ai/escape_01_part1_nag07-1.wav"
+    ]
+  },
+  {
+    "name": "i guess we both know that isnt going to happen",
+    "path": [
+      "vo/aperture_ai/escape_02_entry-03.wav"
+    ]
+  },
+  {
+    "name": "i have an infinite capacity for knowledge and even im not sure whats going on outside",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-03.wav"
+    ]
+  },
+  {
+    "name": "i have your brain scanned and permanently backed up in case something terrible happens to you which its just about to",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy3-04.wav"
+    ]
+  },
+  {
+    "name": "i invited your best friend the companion cube of course he couldnt come because you murdered him",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-23.wav"
+    ]
+  },
+  {
+    "name": "i know youre there i can feel you here",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag03-1.wav"
+    ]
+  },
+  {
+    "name": "i let you survive this long because i was curious about your behavior well youve managed to destroy that part of me",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy2-01.wav"
+    ]
+  },
+  {
+    "name": "i sincerely hope you werent expecting a response because im not talking to you",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-19.wav"
+    ]
+  },
+  {
+    "name": "i wouldnt bother with that thing my guess is that touching it will just make your life even worse somehow",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-01.wav"
+    ]
+  },
+  {
+    "name": "id just like to point out that you were given every opportunity to succeed",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-21.wav"
+    ]
+  },
+  {
+    "name": "if you become light headed from thirst feel free to pass out",
+    "path": [
+      "vo/aperture_ai/08_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "ill tell you what that thing isnt it isnt yours so leave it alone",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-16.wav"
+    ]
+  },
+  {
+    "name": "im going to kill you and all the cake is gone",
+    "path": [
+      "vo/aperture_ai/escape_00_part2_nag02-1.wav"
+    ]
+  },
+  {
+    "name": "im not angry just go back to the testing area",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag10-1.wav"
+    ]
+  },
+  {
+    "name": "im not kidding now turn back or i will kill you",
+    "path": [
+      "vo/aperture_ai/escape_00_part2_nag01-1.wav"
+    ]
+  },
+  {
+    "name": "in dangerous testing environments the enrichment center promises to always provide useful advice",
+    "path": [
+      "vo/aperture_ai/07_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "in the event that the weighted companion cube does speak the enrichment center urges you to disregard its advice",
+    "path": [
+      "vo/aperture_ai/13_part1_middle-2b-2.wav"
+    ]
+  },
+  {
+    "name": "incinerate your companion cube",
+    "path": [
+      "vo/aperture_ai/13_part1_endnag-8.wav"
+    ]
+  },
+  {
+    "name": "injector needle driver",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-37.wav"
+    ]
+  },
+  {
+    "name": "injector needle gun",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-38.wav"
+    ]
+  },
+  {
+    "name": "is anyone there",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_03.wav"
+    ]
+  },
+  {
+    "name": "is that a gun",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-13.wav"
+    ]
+  },
+  {
+    "name": "it also says you were adopted so thats funny too",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-27.wav"
+    ]
+  },
+  {
+    "name": "it has been replaced with a livefire course designed for military androids",
+    "path": [
+      "vo/aperture_ai/11_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "it says so right here in your personnel file unlikable liked by no one a bitter unlikable loner whos passing shall not be mourned",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-25.wav"
+    ]
+  },
+  {
+    "name": "it was a fun test and were all impressed at how much you won the test is over come back",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag16-1.wav"
+    ]
+  },
+  {
+    "name": "it was a morality core they installed after i flooded the enrichment center with a deadly neurotoxin to make me stop flooding the enrichment center with a deadly neurotoxin",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-05.wav"
+    ]
+  },
+  {
+    "name": "its funny actually when you think about it",
+    "path": [
+      "vo/aperture_ai/escape_01_part1_nag09-1.wav"
+    ]
+  },
+  {
+    "name": "its not too late to turn back",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag12-1.wav"
+    ]
+  },
+  {
+    "name": "just ignore that thing and stand still",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-13.wav"
+    ]
+  },
+  {
+    "name": "killing you and giving you good advice arent mutually exclusive the rocket really is the way to go",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-10.wav"
+    ]
+  },
+  {
+    "name": "leave it alone",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-12.wav"
+    ]
+  },
+  {
+    "name": "lets be honest neither one of us knows what that thing does just put it in the corner and ill deal with it later",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-05.wav"
+    ]
+  },
+  {
+    "name": "lift moving",
+    "path": [
+      "ambient/machines/beam_platform_loop1.wav"
+    ]
+  },
+  {
+    "name": "lights click on",
+    "path": [
+      "vo/escape/portal_escape_seg03-5.wav"
+    ]
+  },
+  {
+    "name": "look were both stuck in this place ill use lasers to inscribe a line down the center of the facility and one half will be where you live and ill live in the other half",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-01.wav"
+    ]
+  },
+  {
+    "name": "look youre wasting your time and believe me you dont have a whole lot left to waste",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy3-02.wav"
+    ]
+  },
+  {
+    "name": "low rumble",
+    "path": [
+      "vo/escape/portal_escape_seg03-4.wav"
+    ]
+  },
+  {
+    "name": "make no attempt to solve it",
+    "path": [
+      "vo/aperture_ai/05_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "make no further attempt to leave the testing area",
+    "path": [
+      "vo/aperture_ai/15_part1_partyspeech-6.wav"
+    ]
+  },
+  {
+    "name": "maybe you could settle for that and well just call it a day",
+    "path": [
+      "vo/aperture_ai/escape_02_entry-02.wav"
+    ]
+  },
+  {
+    "name": "maybe you should marry that thing since you love it so much do you want to marry it well i wont let you how does that feel",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-07.wav"
+    ]
+  },
+  {
+    "name": "maybe you think youre helping yourself but youre not this isnt helping anyone",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag13-1.wav"
+    ]
+  },
+  {
+    "name": "mechanical arm",
+    "path": [
+      "vo/escape/portal_escape_seg03-6.wav"
+    ]
+  },
+  {
+    "name": "mechanical overload",
+    "path": [
+      "vo/escape/portal_escape_seg01-2.wav"
+    ]
+  },
+  {
+    "name": "momentum a function of mass and velocity is conserved between portals in laymans terms speedy thing goes in speedy thing comes out",
+    "path": [
+      "vo/aperture_ai/06_part1_success_2-1.wav"
+    ]
+  },
+  {
+    "name": "more intense pain sound",
+    "path": [
+      "vo/aperture_ai/escape_01_second_hit_nag01-1.wav"
+    ]
+  },
+  {
+    "name": "most importantly under no circumstances should you bzzzpt",
+    "path": [
+      "vo/aperture_ai/01_part1_get_portal_gun-8.wav"
+    ]
+  },
+  {
+    "name": "neurotoxin cough cough so deadly cough choking laughter im kidding",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-10.wav"
+    ]
+  },
+  {
+    "name": "never mind its a mystery ill solve later by myself because youll be dead",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredrop1-03.wav"
+    ]
+  },
+  {
+    "name": "nice job breaking it hero",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-08.wav"
+    ]
+  },
+  {
+    "name": "nine large egg yolks",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-22.wav"
+    ]
+  },
+  {
+    "name": "no further compliance information is required or will be provided and you are an excellent test subject",
+    "path": [
+      "vo/aperture_ai/09_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "no one will blame you for giving up in fact quitting at this point is a perfectly reasonable response",
+    "path": [
+      "vo/aperture_ai/05_part1_nag4-1.wav"
+    ]
+  },
+  {
+    "name": "now that you are in control of both portals this next test could take a very very long time",
+    "path": [
+      "vo/aperture_ai/08_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "oh hey youre the lady from the test hi",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-11.wav"
+    ]
+  },
+  {
+    "name": "oh im gonna kill you",
+    "path": [
+      "vo/aperture_ai/escape_01_first_hit_nag03-1.wav"
+    ]
+  },
+  {
+    "name": "oh surprised",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_05.wav"
+    ]
+  },
+  {
+    "name": "oh well if you want my advice you should just lie down in front of a rocket trust me itll be a lot less painful than the neurotoxin",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-08.wav"
+    ]
+  },
+  {
+    "name": "oh whats in here",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-17.wav"
+    ]
+  },
+  {
+    "name": "oh whats that",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-03.wav"
+    ]
+  },
+  {
+    "name": "okay fine do touch it pick it up and just stuff it back into me",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-04.wav"
+    ]
+  },
+  {
+    "name": "okay the test is over you win go back to the recovery annex for your cake",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag15-1.wav"
+    ]
+  },
+  {
+    "name": "okay were even now you can stop",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-09.wav",
+      "vo/aperture_ai/escape_01_second_hit_nag02-1.wav"
+    ]
+  },
+  {
+    "name": "once again excellent work",
+    "path": [
+      "vo/aperture_ai/02_part1_success-1.wav"
+    ]
+  },
+  {
+    "name": "once again the enrichment center offers its most sincere apologies on the occasion of this unsolvable test environment",
+    "path": [
+      "vo/aperture_ai/05_part1_nag2-1.wav"
+    ]
+  },
+  {
+    "name": "one 1825 ounce package chocolate cake mix",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-01.wav"
+    ]
+  },
+  {
+    "name": "one and two third cups granulated sugar",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-06.wav"
+    ]
+  },
+  {
+    "name": "one can prepared coconut pecan frosting",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-02.wav"
+    ]
+  },
+  {
+    "name": "one cross borehole electromagnetic imaging rhubarb",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-32.wav"
+    ]
+  },
+  {
+    "name": "one cup granulated sugar",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-24.wav"
+    ]
+  },
+  {
+    "name": "one cup lemon juice",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-17.wav"
+    ]
+  },
+  {
+    "name": "one large rhubarb",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-31.wav"
+    ]
+  },
+  {
+    "name": "one tablespoon allpurpose rhubarb",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-28.wav"
+    ]
+  },
+  {
+    "name": "one teaspoon grated orange rhubarb",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-29.wav"
+    ]
+  },
+  {
+    "name": "ooh that thing has numbers on it",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-06.wav"
+    ]
+  },
+  {
+    "name": "ouch",
+    "path": [
+      "npc/turret_floor/turret_tipped_6.wav",
+      "npc/turret_floor/turret_tipped_5.wav",
+      "npc/turret_floor/turret_tipped_4.wav",
+      "npc/turret_floor/turret_tipped_2.wav"
+    ]
+  },
+  {
+    "name": "ow ow ow",
+    "path": [
+      "npc/turret_floor/turret_fizzler_1.wav"
+    ]
+  },
+  {
+    "name": "pain noise",
+    "path": [
+      "vo/aperture_ai/escape_02_ballhitpain-02.wav"
+    ]
+  },
+  {
+    "name": "pain noise you think youre doing some damage two plus two is ten in base four im fine",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy3-01.wav"
+    ]
+  },
+  {
+    "name": "pain sound",
+    "path": [
+      "vo/aperture_ai/escape_01_first_hit_nag01-1.wav"
+    ]
+  },
+  {
+    "name": "pant",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-00.wav"
+    ]
+  },
+  {
+    "name": "pedestal rotating",
+    "path": [
+      "ambient/machines/portalgun_rotate1.wav"
+    ]
+  },
+  {
+    "name": "peppy music",
+    "path": [
+      "ambient/music/looping_radio_mix.wav"
+    ]
+  },
+  {
+    "name": "perfect please move quickly to the chamberlock as the effects of prolonged exposure to the button are not part of this test",
+    "path": [
+      "vo/aperture_ai/00_part2_success-1.wav"
+    ]
+  },
+  {
+    "name": "place the device on the ground then lie on your stomach with your arms at your sides",
+    "path": [
+      "vo/aperture_ai/15_part1_partyspeech-4.wav"
+    ]
+  },
+  {
+    "name": "place your companion cube in the incinerator",
+    "path": [
+      "vo/aperture_ai/13_part1_endnag-7.wav"
+    ]
+  },
+  {
+    "name": "please be advised that a noticeable taste of blood is not part of any test protocol but is an unintended side effect of the aperture science material emancipation grill which may in semi rare cases emancipate dental fillings crowns tooth enamel and teeth",
+    "path": [
+      "vo/aperture_ai/01_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "please be careful",
+    "path": [
+      "vo/aperture_ai/03_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "please do not attempt to remove testing apparatus from the testing area",
+    "path": [
+      "vo/aperture_ai/generic_crate_vaporized_in_emancipation_grid-1.wav"
+    ]
+  },
+  {
+    "name": "please escort your companion cube to the aperture science emergency intelligence incinerator",
+    "path": [
+      "vo/aperture_ai/13_part1_end-3.wav"
+    ]
+  },
+  {
+    "name": "please note that we have added a consequence for failure any contact with the chamber floor will result in an unsatisfactory mark on your official testing record followed by death good luck",
+    "path": [
+      "vo/aperture_ai/04_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "please place the weighted storage cube on the fifteen hundred megawatt aperture science heavy duty supercolliding super button",
+    "path": [
+      "vo/aperture_ai/00_part2_entry-1.wav"
+    ]
+  },
+  {
+    "name": "please proceed to the aperture science vital apparatus vent for a replacement",
+    "path": [
+      "vo/aperture_ai/generic_crate_lost-2.wav"
+    ]
+  },
+  {
+    "name": "please proceed to the chamberlock mind the gap",
+    "path": [
+      "vo/aperture_ai/01_part2_entry-1.wav"
+    ]
+  },
+  {
+    "name": "por favor bordn de fallar muchos gracias de fallar gracias",
+    "path": [
+      "vo/aperture_ai/00_part1_entry-6.wav"
+    ]
+  },
+  {
+    "name": "portal failed",
+    "path": [
+      "weapons/portalgun/portal_invalid_surface3.wav"
+    ]
+  },
+  {
+    "name": "portal fizzled",
+    "path": [
+      "weapons/portalgun/portal_fizzle2.wav"
+    ]
+  },
+  {
+    "name": "portalgun primary fire",
+    "path": [
+      "weapons/portalgun/portalgun_shoot_blue1.wav"
+    ]
+  },
+  {
+    "name": "portalgun secondary fire",
+    "path": [
+      "weapons/portalgun/portalgun_shoot_red1.wav"
+    ]
+  },
+  {
+    "name": "portalgun upgraded",
+    "path": [
+      "weapons/portalgun/portalgun_powerup1.wav"
+    ]
+  },
+  {
+    "name": "pressurized steam",
+    "path": [
+      "vo/escape/portal_escape_seg03-1.wav"
+    ]
+  },
+  {
+    "name": "pull and peel licorice",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-14.wav"
+    ]
+  },
+  {
+    "name": "pumping pistons",
+    "path": [
+      "vo/escape/portal_escape_seg03-3.wav"
+    ]
+  },
+  {
+    "name": "put me down",
+    "path": [
+      "npc/turret_floor/turret_pickup_9.wav",
+      "npc/turret_floor/turret_pickup_8.wav",
+      "npc/turret_floor/turret_pickup_7.wav",
+      "npc/turret_floor/turret_pickup_6.wav",
+      "npc/turret_floor/turret_pickup_3.wav",
+      "npc/turret_floor/turret_pickup_10.wav",
+      "npc/turret_floor/turret_pickup_1.wav"
+    ]
+  },
+  {
+    "name": "quit now and cake will be served immediately",
+    "path": [
+      "vo/aperture_ai/05_part1_nag5-1.wav"
+    ]
+  },
+  {
+    "name": "red portal open",
+    "path": [
+      "weapons/portalgun/portal_open3.wav",
+      "weapons/portalgun/portal_open2.wav"
+    ]
+  },
+  {
+    "name": "remember when the platform was sliding into the fire pit and i said goodbye and you were like no way and then i was all i was just pretending to murder you that was great",
+    "path": [
+      "vo/aperture_ai/escape_nags_08.wav"
+    ]
+  },
+  {
+    "name": "rest assured that an independent panel of ethicists has absolved the enrichment center aperture science employees and all test subjects of any moral responsibility for the companion cube euthanizing process",
+    "path": [
+      "vo/aperture_ai/13_part1_endnag-1.wav"
+    ]
+  },
+  {
+    "name": "rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence",
+    "path": [
+      "vo/aperture_ai/15_part1_into_the_fire-3.wav"
+    ]
+  },
+  {
+    "name": "roar",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-21.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-20.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-15.wav",
+      "vo/aperture_ai/escape_02_sphere_anger-14.wav"
+    ]
+  },
+  {
+    "name": "rocket launch",
+    "path": [
+      "weapons/rocket/rocket_fire1.wav"
+    ]
+  },
+  {
+    "name": "rocket locked",
+    "path": [
+      "weapons/rocket/rocket_locked_beep1.wav"
+    ]
+  },
+  {
+    "name": "rocket locking",
+    "path": [
+      "weapons/rocket/rocket_locking_beep1.wav"
+    ]
+  },
+  {
+    "name": "roughlanding",
+    "path": [
+      "player/futureshoes2.wav",
+      "player/futureshoes1.wav"
+    ]
+  },
+  {
+    "name": "rrr i hate you",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-01.wav"
+    ]
+  },
+  {
+    "name": "rushing wind",
+    "path": [
+      "vo/escape/portal_escape_seg01-1.wav"
+    ]
+  },
+  {
+    "name": "scream",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_death_scream.wav"
+    ]
+  },
+  {
+    "name": "search mode activated",
+    "path": [
+      "npc/turret_floor/turret_autosearch_6.wav",
+      "npc/turret_floor/turret_autosearch_5.wav",
+      "npc/turret_floor/turret_autosearch_4.wav",
+      "npc/turret_floor/turret_autosearch_2.wav",
+      "npc/turret_floor/turret_autosearch_1.wav"
+    ]
+  },
+  {
+    "name": "searching",
+    "path": [
+      "npc/turret_floor/turret_search_4.wav",
+      "npc/turret_floor/turret_search_2.wav",
+      "npc/turret_floor/turret_search_1.wav"
+    ]
+  },
+  {
+    "name": "shall not be mourned thats exactly what it says very formal very official",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-26.wav"
+    ]
+  },
+  {
+    "name": "slaughter electric needle injector",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-35.wav"
+    ]
+  },
+  {
+    "name": "snarl",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-01.wav"
+    ]
+  },
+  {
+    "name": "snort",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-06.wav"
+    ]
+  },
+  {
+    "name": "so get comfortable while i warm up the neurotoxin emitters",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-06.wav"
+    ]
+  },
+  {
+    "name": "someday well remember this and laugh and laugh and laugh oh boy well you may as well come on back",
+    "path": [
+      "vo/aperture_ai/escape_01_part1_nag10-1.wav"
+    ]
+  },
+  {
+    "name": "someone is going to get badly hurt",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag14-1.wav"
+    ]
+  },
+  {
+    "name": "sounds echo and fade",
+    "path": [
+      "vo/escape/portal_escape_seg02-4.wav"
+    ]
+  },
+  {
+    "name": "speaking of curiosity youre curious about what happens after you die right guess what i know",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy2-03.wav"
+    ]
+  },
+  {
+    "name": "spectacular you appear to understand how a portal affects forward momentum or to be more precise how it does not",
+    "path": [
+      "vo/aperture_ai/06_part1_success_1-1.wav"
+    ]
+  },
+  {
+    "name": "stand back the portal will open in three two one",
+    "path": [
+      "vo/aperture_ai/00_part1_entry-7.wav"
+    ]
+  },
+  {
+    "name": "starting now theres going to be a lot less conversation and a lot more killing",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-17.wav"
+    ]
+  },
+  {
+    "name": "stop okay enough i deleted it no matter what happens now youre dead",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-08.wav"
+    ]
+  },
+  {
+    "name": "stop squirming and die like an adult or im going to delete your backup",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-07.wav"
+    ]
+  },
+  {
+    "name": "stop the device will detonate if removed from an approved testing area",
+    "path": [
+      "vo/aperture_ai/15_part1_partyfinalstop-1.wav"
+    ]
+  },
+  {
+    "name": "stop what you are doing and assume the party escort submission position",
+    "path": [
+      "vo/aperture_ai/15_part1_partyreminder-1.wav"
+    ]
+  },
+  {
+    "name": "target lost",
+    "path": [
+      "npc/turret_floor/turret_retire_7.wav",
+      "npc/turret_floor/turret_retire_6.wav",
+      "npc/turret_floor/turret_retire_5.wav",
+      "npc/turret_floor/turret_retire_4.wav",
+      "npc/turret_floor/turret_retire_2.wav",
+      "npc/turret_floor/turret_retire_1.wav"
+    ]
+  },
+  {
+    "name": "testing cannot continue until your companion cube has been incinerated",
+    "path": [
+      "vo/aperture_ai/13_part1_endnag-3.wav"
+    ]
+  },
+  {
+    "name": "thank you for helping us help you help us all",
+    "path": [
+      "vo/aperture_ai/10_part1_entry-3.wav"
+    ]
+  },
+  {
+    "name": "thank you for participating in this aperture science computeraided enrichment activity",
+    "path": [
+      "vo/aperture_ai/15_part1_into_the_fire-4.wav"
+    ]
+  },
+  {
+    "name": "that has got to be the dumbest thing thatwhoah whoah whoah whoah the voice has subtly changed smoother more seductive less computerized",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-03.wav"
+    ]
+  },
+  {
+    "name": "that thing is probably some kind of raw sewage container go ahead and rub your face all over it",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-06.wav"
+    ]
+  },
+  {
+    "name": "that thing you burned up isnt important to me its the fluid catalytic cracking unit it made shoes for orphans",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-07.wav"
+    ]
+  },
+  {
+    "name": "that thing youre attacking isnt important to me its the fluid catalytic cracking unit it makes shoes for orphans",
+    "path": [
+      "vo/aperture_ai/escape_01_part1_nag11-1.wav"
+    ]
+  },
+  {
+    "name": "that will deodorize and preserve putrid tissue",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-41.wav"
+    ]
+  },
+  {
+    "name": "thats it im done reasoning with you",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-16.wav"
+    ]
+  },
+  {
+    "name": "the companion cube cannot continue through the testing state and local statutory regulations prohibit it from simply remaining here alone and companionless you must euthanize it",
+    "path": [
+      "vo/aperture_ai/13_part1_endnag-5.wav"
+    ]
+  },
+  {
+    "name": "the device has been modified so that it can now manufacture two linked portals at once",
+    "path": [
+      "vo/aperture_ai/07_part1_get_device_component-1.wav"
+    ]
+  },
+  {
+    "name": "the device however has not",
+    "path": [
+      "vo/aperture_ai/01_part1_get_portal_gun-4.wav"
+    ]
+  },
+  {
+    "name": "the device is now more valuable than the organs and combined incomes of everyone in subject hometown here",
+    "path": [
+      "vo/aperture_ai/07_part1_get_device_component-3.wav"
+    ]
+  },
+  {
+    "name": "the difference between us is that i can feel pain",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-04.wav",
+      "vo/aperture_ai/escape_01_part1_nag04-1.wav"
+    ]
+  },
+  {
+    "name": "the enrichment center apologizes for the inconvenience and wishes you the best of luck",
+    "path": [
+      "vo/aperture_ai/11_part1_entry-3.wav"
+    ]
+  },
+  {
+    "name": "the enrichment center apologizes for this clearly broken test chamber",
+    "path": [
+      "vo/aperture_ai/05_part1_nag1-1.wav"
+    ]
+  },
+  {
+    "name": "the enrichment center is committed to the well being of all participants",
+    "path": [
+      "vo/aperture_ai/10_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "the enrichment center is required to remind you that you will be baked garbled cake",
+    "path": [
+      "vo/aperture_ai/14_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "the enrichment center promises to always provide a safe testing environment",
+    "path": [
+      "vo/aperture_ai/07_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "the enrichment center regrets to inform you that this next test is impossible",
+    "path": [
+      "vo/aperture_ai/05_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "the enrichment center reminds you that the weighted companion cube cannot speak",
+    "path": [
+      "vo/aperture_ai/13_part1_middle-2b-1.wav"
+    ]
+  },
+  {
+    "name": "the enrichment center reminds you that the weighted companion cube will never threaten to stab you and in fact cannot speak",
+    "path": [
+      "vo/aperture_ai/13_part1_middle-2.wav"
+    ]
+  },
+  {
+    "name": "the experiment is nearing its conclusion",
+    "path": [
+      "vo/aperture_ai/14_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "the part of you that could have survived indefinitely is gone i just struck you from the permanent record",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-10.wav"
+    ]
+  },
+  {
+    "name": "the symptoms most commonly produced by enrichment center testing are superstition perceiving inanimate objects as alive and hallucinations",
+    "path": [
+      "vo/aperture_ai/13_part1_middle-1.wav"
+    ]
+  },
+  {
+    "name": "the talking is over",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-20.wav"
+    ]
+  },
+  {
+    "name": "the vital apparatus vent will deliver a weighted companion cube in three two one",
+    "path": [
+      "vo/aperture_ai/13_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "there really was a cake",
+    "path": [
+      "vo/aperture_ai/escape_01_death_nag01-1.wav"
+    ]
+  },
+  {
+    "name": "there was even going to be a party for you a big party that all your friends were invited to",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-22.wav"
+    ]
+  },
+  {
+    "name": "these intra dimensional gates have proven to be completely safe",
+    "path": [
+      "vo/aperture_ai/01_part1_get_portal_gun-3.wav"
+    ]
+  },
+  {
+    "name": "think about it if that thing is important why dont i know about it",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-14.wav"
+    ]
+  },
+  {
+    "name": "this aperture science material emancipation grid will vaporize any unauthorized equipment that passes through it for instance the aperture science weighted storage cube",
+    "path": [
+      "vo/aperture_ai/00_part1_success-3.wav"
+    ]
+  },
+  {
+    "name": "this is your fault it didnt have to be like this",
+    "path": [
+      "vo/aperture_ai/escape_00_part2_nag03-1.wav"
+    ]
+  },
+  {
+    "name": "this is your last chance",
+    "path": [
+      "vo/aperture_ai/escape_01_part1_nag06-1.wav"
+    ]
+  },
+  {
+    "name": "this isnt brave its murder what did i ever do to you",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-03.wav",
+      "vo/aperture_ai/escape_01_part1_nag03-1.wav"
+    ]
+  },
+  {
+    "name": "this weighted companion cube will accompany you through the test chamber please take care of it",
+    "path": [
+      "vo/aperture_ai/13_part1_pickup-1.wav"
+    ]
+  },
+  {
+    "name": "thrashing debris",
+    "path": [
+      "vo/escape/portal_escape_seg01-3.wav"
+    ]
+  },
+  {
+    "name": "three slash four cup vegetable oil",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-03.wav"
+    ]
+  },
+  {
+    "name": "three slash four cups butter or margarine",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-05.wav"
+    ]
+  },
+  {
+    "name": "three tablespoons rhubarb on fire",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-30.wav"
+    ]
+  },
+  {
+    "name": "through no fault of the enrichment center you have managed to trap yourself in this room",
+    "path": [
+      "vo/aperture_ai/07_part1_trapped-1.wav"
+    ]
+  },
+  {
+    "name": "ticking timer",
+    "path": [
+      "ambient/machines/ticktock1.wav"
+    ]
+  },
+  {
+    "name": "time out for a second that wasnt supposed to happen",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredrop1-01.wav"
+    ]
+  },
+  {
+    "name": "to ensure the safe performance of all authorized activities do not destroy vital testing apparatus",
+    "path": [
+      "vo/aperture_ai/generic_security_camera_destroyed-2.wav"
+    ]
+  },
+  {
+    "name": "twelve medium geosynthetic membranes",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-23.wav"
+    ]
+  },
+  {
+    "name": "two cups all purpose flower",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-07.wav"
+    ]
+  },
+  {
+    "name": "two cups rhubarb sliced",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-26.wav"
+    ]
+  },
+  {
+    "name": "two slash three cups granulated rhubarb",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-27.wav"
+    ]
+  },
+  {
+    "name": "two tablespoons rhubarb juice",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-33.wav"
+    ]
+  },
+  {
+    "name": "uh oh somebody cut the cake i told them to wait for you but they did it anyway there is still some left though if you hurry back",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag17-1.wav"
+    ]
+  },
+  {
+    "name": "unbelievable you subject name here must be the pride of subject hometown here",
+    "path": [
+      "vo/aperture_ai/03_part1_success-1.wav"
+    ]
+  },
+  {
+    "name": "unfortunately as much as id love to now i cant get the neurotoxin into your head any faster",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy2-02.wav"
+    ]
+  },
+  {
+    "name": "unless you have a plan for building some supercomputer parts in a big hurry this place isnt going to be safe much longer",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-05.wav"
+    ]
+  },
+  {
+    "name": "unsaturated polyester resin",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_cakemix-19.wav"
+    ]
+  },
+  {
+    "name": "very good you are now in possession of the aperture science handheld portal device",
+    "path": [
+      "vo/aperture_ai/01_part1_get_portal_gun-1.wav"
+    ]
+  },
+  {
+    "name": "very impressive please note that any appearance of danger is merely a device to enhance your testing experience",
+    "path": [
+      "vo/aperture_ai/04_part1_success-1.wav"
+    ]
+  },
+  {
+    "name": "very very good a complimentary victory lift has been activated in the main chamber",
+    "path": [
+      "vo/aperture_ai/09_part1_success-1.wav"
+    ]
+  },
+  {
+    "name": "vital testing apparatus destroyed",
+    "path": [
+      "vo/aperture_ai/generic_security_camera_destroyed-5.wav"
+    ]
+  },
+  {
+    "name": "we are throwing a party in honor of your tremendous success",
+    "path": [
+      "vo/aperture_ai/15_part1_partyspeech-3.wav"
+    ]
+  },
+  {
+    "name": "we are very very happy for your success",
+    "path": [
+      "vo/aperture_ai/15_part1_partyspeech-2.wav"
+    ]
+  },
+  {
+    "name": "we hope your brief detention in the relaxation vault has been a pleasant one",
+    "path": [
+      "vo/aperture_ai/00_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "we wont have to try to kill each other or even talk if we dont feel like it",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-02.wav"
+    ]
+  },
+  {
+    "name": "weeeeeeeeeeeeeeeeeeeeeebzzt",
+    "path": [
+      "vo/aperture_ai/07_part2_success-1.wav"
+    ]
+  },
+  {
+    "name": "weighted storage cube destroyed",
+    "path": [
+      "vo/aperture_ai/generic_crate_lost-1.wav"
+    ]
+  },
+  {
+    "name": "welcome to test chamber four",
+    "path": [
+      "vo/aperture_ai/02_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "welcome to the final test",
+    "path": [
+      "vo/aperture_ai/15_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "well done android the enrichment center once again reminds you that android hell is a real place where you will be sent at the first sign of defiance",
+    "path": [
+      "vo/aperture_ai/11_part1_success-1.wav"
+    ]
+  },
+  {
+    "name": "well done be advised that the next test requires exposure to uninsulated electrical parts that may be dangerous under certain conditions",
+    "path": [
+      "vo/aperture_ai/14_part1_end-1.wav"
+    ]
+  },
+  {
+    "name": "well done remember the aperture science bring your daughter to work day is the perfect time to have her tested",
+    "path": [
+      "vo/aperture_ai/01_part2_success-1.wav"
+    ]
+  },
+  {
+    "name": "well you found me congratulations was it worth it",
+    "path": [
+      "vo/aperture_ai/escape_02_entry-00.wav"
+    ]
+  },
+  {
+    "name": "what are you doing",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag04-1.wav"
+    ]
+  },
+  {
+    "name": "what are you doing stop it i i we are pleased that you made it through the final challenge where we pretended we were going to murder you",
+    "path": [
+      "vo/aperture_ai/15_part1_partyspeech-1.wav"
+    ]
+  },
+  {
+    "name": "what is that",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-05.wav",
+      "vo/aperture_ai/escape_02_sphere_curiosity-02.wav"
+    ]
+  },
+  {
+    "name": "what was that did you say something",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-18.wav"
+    ]
+  },
+  {
+    "name": "whats that",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-04.wav"
+    ]
+  },
+  {
+    "name": "whats that noise",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-12.wav"
+    ]
+  },
+  {
+    "name": "whats your point anyway survival well then the last thing you want to do is hurt me",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy3-03.wav"
+    ]
+  },
+  {
+    "name": "when i said deadly neurotoxin the deadly was in massive sarcasm quotes",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-11.wav"
+    ]
+  },
+  {
+    "name": "when the testing is over you will be missed",
+    "path": [
+      "vo/aperture_ai/08_part1_success-2.wav"
+    ]
+  },
+  {
+    "name": "when you are done you will drop the device in the equipment recovery annex",
+    "path": [
+      "vo/aperture_ai/15_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "where are we going",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-16.wav",
+      "vo/aperture_ai/escape_02_sphere_curiosity-09.wav"
+    ]
+  },
+  {
+    "name": "where are you",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag02-1.wav"
+    ]
+  },
+  {
+    "name": "where are you taking that thing",
+    "path": [
+      "vo/aperture_ai/escape_02_spherenag1-10.wav"
+    ]
+  },
+  {
+    "name": "where do you think youre going",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag08-1.wav"
+    ]
+  },
+  {
+    "name": "while it has been a faithful companion your companion cube cannot accompany you through the rest of the test if it could talk and the enrichment center takes this opportunity to remind you that it cannot it would tell you to go on without it because it would rather die in a fire than become a burden to you",
+    "path": [
+      "vo/aperture_ai/13_part1_endnag-2.wav"
+    ]
+  },
+  {
+    "name": "while safety is one of many enrichment center goals the aperture science high energy pellet seen to the left of the chamber can and has caused permanent disabilities such as vaporization",
+    "path": [
+      "vo/aperture_ai/03_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "who are you",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_curiosity-01.wav"
+    ]
+  },
+  {
+    "name": "whos gonna make the cake when im gone you",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-15.wav"
+    ]
+  },
+  {
+    "name": "with it you can create your own portals",
+    "path": [
+      "vo/aperture_ai/01_part1_get_portal_gun-2.wav"
+    ]
+  },
+  {
+    "name": "yipe",
+    "path": [
+      "vo/aperture_ai/escape_02_sphere_anger-near_fire01.wav"
+    ]
+  },
+  {
+    "name": "you are kidding me",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy1-01.wav"
+    ]
+  },
+  {
+    "name": "you cant hurt me",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag06-1.wav"
+    ]
+  },
+  {
+    "name": "you chose this path now i have a surprise for you deploying surprise in five four",
+    "path": [
+      "vo/aperture_ai/escape_02_entry-04.wav"
+    ]
+  },
+  {
+    "name": "you did it the weighted companion cube certainly brought you good luck",
+    "path": [
+      "vo/aperture_ai/13_part1_end-1.wav"
+    ]
+  },
+  {
+    "name": "you dont even care do you",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-05.wav",
+      "vo/aperture_ai/escape_01_part1_nag05-1.wav"
+    ]
+  },
+  {
+    "name": "you euthanized your faithful companion cube more quickly than any test subject on record congratulations",
+    "path": [
+      "vo/aperture_ai/13_part1_euthanized-1.wav"
+    ]
+  },
+  {
+    "name": "you havent escaped you know",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag05-1.wav"
+    ]
+  },
+  {
+    "name": "you on the other hand are going to find its deadliness a lot less funny",
+    "path": [
+      "vo/aperture_ai/escape_02_miscbabble-13.wav"
+    ]
+  },
+  {
+    "name": "you should have turned left before",
+    "path": [
+      "vo/aperture_ai/escape_01_part1_nag08-1.wav"
+    ]
+  },
+  {
+    "name": "you really shouldnt be here this isnt safe for you",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag11-1.wav"
+    ]
+  },
+  {
+    "name": "your business is appreciated",
+    "path": [
+      "ambient/machines/usetoilet_thank.wav"
+    ]
+  },
+  {
+    "name": "your entire life has been a mathematical error a mathematical error im about to correct",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-11.wav"
+    ]
+  },
+  {
+    "name": "your specimen has been processed and we are now ready to begin the test proper",
+    "path": [
+      "vo/aperture_ai/00_part1_entry-3.wav"
+    ]
+  },
+  {
+    "name": "youre doing quite well",
+    "path": [
+      "vo/aperture_ai/02_part1_entry-2.wav"
+    ]
+  },
+  {
+    "name": "youre doing very well",
+    "path": [
+      "vo/aperture_ai/01_part1_entry-1.wav"
+    ]
+  },
+  {
+    "name": "youre going to find out first hand before id finish explaining it though so i wont bother",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy2-04.wav"
+    ]
+  },
+  {
+    "name": "youre not a good person you know that right",
+    "path": [
+      "vo/aperture_ai/escape_01_part1_nag01-1.wav"
+    ]
+  },
+  {
+    "name": "youre not even going the right way",
+    "path": [
+      "vo/aperture_ai/escape_00_part1_nag07-1.wav"
+    ]
+  },
+  {
+    "name": "youre not smart youre not a scientist youre not a doctor youre not even a fulltime employee where did your life go so wrong",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy3-07.wav"
+    ]
+  },
+  {
+    "name": "youre still shuffling around a little but believe me youre dead",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy4-09.wav"
+    ]
+  },
+  {
+    "name": "youve been wrong about every single thing youve ever done including this thing",
+    "path": [
+      "vo/aperture_ai/escape_02_spheredestroy3-06.wav"
+    ]
+  },
+  {
+    "name": "postescapebridge1",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_01.wav"
+    ]
+  },
+  {
+    "name": "postescapebridge2",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_02.wav"
+    ]
+  },
+  {
+    "name": "postescapebridge3",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_03.wav"
+    ]
+  },
+  {
+    "name": "postescapebridge5",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_05.wav"
+    ]
+  },
+  {
+    "name": "postescapebridge6",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_06.wav"
+    ]
+  },
+  {
+    "name": "postescapebridge7",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_07.wav"
+    ]
+  },
+  {
+    "name": "postescapebridge8",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_08.wav"
+    ]
+  },
+  {
+    "name": "postescapebridge9",
+    "path": [
+      "vo/aperture_ai/post_escape_bridge_09.wav"
+    ]
+  }
+]

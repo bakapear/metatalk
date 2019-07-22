@@ -1,0 +1,231 @@
+[
+  {
+    "name": "da man",
+    "path": [
+      "bot/whos_the_man.wav"
+    ]
+  },
+  {
+    "name": "my house",
+    "path": [
+      "bot/this_is_my_house.wav"
+    ]
+  },
+  {
+    "name": "party",
+    "path": [
+      "bot/its_a_party.wav"
+    ]
+  },
+  {
+    "name": "affirmative",
+    "path": [
+      "radio/ct_affirm.wav"
+    ]
+  },
+  {
+    "name": "alright lets move out",
+    "path": [
+      "radio/moveout.wav"
+    ]
+  },
+  {
+    "name": "bomb has been defused",
+    "path": [
+      "radio/bombdef.wav"
+    ]
+  },
+  {
+    "name": "bomb has been planted",
+    "path": [
+      "radio/bombpl.wav"
+    ]
+  },
+  {
+    "name": "counter terrorist win",
+    "path": [
+      "radio/ctwin.wav"
+    ]
+  },
+  {
+    "name": "cover me",
+    "path": [
+      "radio/ct_coverme.wav"
+    ]
+  },
+  {
+    "name": "enemy down",
+    "path": [
+      "radio/enemydown.wav"
+    ]
+  },
+  {
+    "name": "enemy spotted",
+    "path": [
+      "radio/ct_enemys.wav"
+    ]
+  },
+  {
+    "name": "fire in the hole",
+    "path": [
+      "radio/ct_fireinhole.wav"
+    ]
+  },
+  {
+    "name": "follow me",
+    "path": [
+      "radio/followme.wav"
+    ]
+  },
+  {
+    "name": "get in position and wait for my go",
+    "path": [
+      "radio/com_getinpos.wav"
+    ]
+  },
+  {
+    "name": "get outta there its gonna blow",
+    "path": [
+      "radio/blow.wav"
+    ]
+  },
+  {
+    "name": "go go go",
+    "path": [
+      "radio/com_go.wav"
+    ]
+  },
+  {
+    "name": "hold this position",
+    "path": [
+      "radio/position.wav"
+    ]
+  },
+  {
+    "name": "hostage down",
+    "path": [
+      "radio/hosdown.wav"
+    ]
+  },
+  {
+    "name": "hostages are being rescued",
+    "path": [
+      "radio/hostagecompromised.wav"
+    ]
+  },
+  {
+    "name": "im in position",
+    "path": [
+      "radio/ct_inpos.wav"
+    ]
+  },
+  {
+    "name": "lock n load",
+    "path": [
+      "radio/locknload.wav"
+    ]
+  },
+  {
+    "name": "need backup",
+    "path": [
+      "radio/ct_backup.wav"
+    ]
+  },
+  {
+    "name": "negative",
+    "path": [
+      "radio/negative.wav"
+    ]
+  },
+  {
+    "name": "ok lets go",
+    "path": [
+      "radio/letsgo.wav",
+      "radio/go.wav"
+    ]
+  },
+  {
+    "name": "protect the vip team",
+    "path": [
+      "radio/vip.wav"
+    ]
+  },
+  {
+    "name": "regroup team",
+    "path": [
+      "radio/regroup.wav"
+    ]
+  },
+  {
+    "name": "report in team",
+    "path": [
+      "radio/com_reportin.wav"
+    ]
+  },
+  {
+    "name": "reporting in",
+    "path": [
+      "radio/ct_reportingin.wav"
+    ]
+  },
+  {
+    "name": "roger that",
+    "path": [
+      "radio/roger.wav"
+    ]
+  },
+  {
+    "name": "round draw",
+    "path": [
+      "radio/rounddraw.wav"
+    ]
+  },
+  {
+    "name": "sector clear",
+    "path": [
+      "radio/clear.wav"
+    ]
+  },
+  {
+    "name": "stick together team",
+    "path": [
+      "radio/sticktog.wav"
+    ]
+  },
+  {
+    "name": "storm the front",
+    "path": [
+      "radio/stormfront.wav"
+    ]
+  },
+  {
+    "name": "taking fire need assistance",
+    "path": [
+      "radio/fireassis.wav"
+    ]
+  },
+  {
+    "name": "team fall back",
+    "path": [
+      "radio/fallback.wav"
+    ]
+  },
+  {
+    "name": "terrorist win",
+    "path": [
+      "radio/terwin.wav"
+    ]
+  },
+  {
+    "name": "the hostages has been rescued",
+    "path": [
+      "radio/rescued.wav"
+    ]
+  },
+  {
+    "name": "you take the point",
+    "path": [
+      "radio/takepoint.wav"
+    ]
+  }
+]
